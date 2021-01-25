@@ -22,10 +22,3 @@ fitness.ino is the main file of the program; It contains the setup and main loop
 function.h is the header file for function.c.
 function.c contains the 4 functions analyze the input signal for the 4 exercise.
 pitches.h has the notes defined from https://www.arduino.cc/en/Tutorial/ToneMelody, which is used in the fitness.ino as a celebration music for compelte the entire workout.
-
-Video Demo:
-In the video demo, the general functionality of the device and program is explained first.
-Second, the user demonstration of 4 exercises of 10 repetition with random order is demonstrated. This is the suggested use of the device and it achieces best accuracy 
-and robustness.
-Third,  the user demonstration of 4 exercises of random amount of repetition and with random order is demonstrated. In this exercise, the repetition of the exercise is 
-splitted and the user can come back to finished that paritcular exercise movemnt after a break or finished some repetitions of the other exercise movement.
