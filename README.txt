@@ -21,4 +21,4 @@ The code is seprated in to four files
 fitness.ino is the main file of the program; It contains the setup and main loop and functions that uses the Adafruit_CircuitPlayground.h package.
 function.h is the header file for function.c.
 function.c contains the 4 functions analyzing the input signal for the 4 exercises.
-pitches.h has the notes defined from https://www.arduino.cc/en/Tutorial/ToneMelody, which is used in the fitness.ino as a celebration music for compelte the entire workout.
+pitches.h has the notes defined from https://www.arduino.cc/en/Tutorial/ToneMelody, which is used in the fitness.ino as a celebration music for complete the entire workout.
